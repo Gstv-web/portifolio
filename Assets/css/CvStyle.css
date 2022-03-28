@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,900&display=swap');
+
+* {
+    font-family: "Roboto";
+    font-weight: 400;
+}
+
+
+/* CV VITAE */
+/* -- PRIMEIRA COLUNA -- */
+
+#primeiraCol {
+    min-height: 100vh;
+    background-color: rgb(206, 207, 207);
+    border-left: 1px solid black;
+}
+
+#profilePic {
+    border: 1px solid black;
+}
+
+#contato {
+    width: 15vw;
+}
+
+#infoPessoal {
+    white-space: pre-wrap;
+}
+
+/*.cursos {
+    font-weight: bold;
+}*/
+
+/* -- SEGUNDA COLUNA -- */
+
+#segundaCol {
+    margin-left: 15px;
+    margin-right: 10px;
+    border-right: 1px solid black;
+}
+
+h1 {
+    border-bottom: 1px solid gray;
+}
+
+h2 {
+    font-weight: 700;
+}
+
+.rightText {
+    margin-right: 15px;
+    font-size: 16px;
+}
+
+/* ****** INDEX LANDING PAGE ****** */
+
+/* -- PRIMEIRA COLUNA*/
+
+#profile {
+    border-right: 1px solid black;
+    min-height: 100vh;
+}
+
+#profilePic2 {
+    border: 1px solid black;
+    height: 20vw;
+    width: 20vw
+}
+
+
+/* -- SEGUNDA COLUNA -- */
+
+li {
+    list-style: none;
+}
